@@ -2,16 +2,12 @@
 
 ##  Оглавление
 
-* [HomeWork, Module 8.1(Folder)](https://github.com/infinitelifeline/SF_DS_HW-01/tree/HW/HW-01)
-
-* [Homework(File)](https://github.com/infinitelifeline/SF_DS_HW-01/blob/HW/HW-01/HW-01.ipynb)
-
-* [Описание проекта](https://github.com/infinitelifeline/SF_DS_HW-01/blob/HW/README.md/Описание_проекта)
-* [Какой кейс решаем](https://github.com/infinitelifeline/SF_DS_HW-01/blob/HW/README.md/Какой_кейс_решаем)
+* [Описание проекта](https://github.com/infinitelifeline/SF_DS_HW-01/blob/HW/README.md#описание-проекта)
+* [Какой кейс решаем](https://github.com/infinitelifeline/SF_DS_HW-01/blob/HW/README.md#какой-кейс-решаем)
 * [Условия соревнования](https://github.com/infinitelifeline/SF_DS_HW-01/blob/HW/README.md/Условия_соревнования)
 * [Метрика качества](https://github.com/infinitelifeline/SF_DS_HW-01/blob/HW/README.md/Метрика_качества)
 * [Что практикуем](https://github.com/infinitelifeline/SF_DS_HW-01/blob/HW/README.md/Что_практикуем)
-* [Ссылки](https://github.com/infinitelifeline/SF_DS_HW-01/blob/HW/README.md/Ссылки)
+* [Ссылки](https://github.com/infinitelifeline/SF_DS_HW-01/blob/HW/README.md#ссылки-на-папку-и-файл)
 
 ### Описание проекта
 Программа должна угадать число от 1 до 100.
