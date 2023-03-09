@@ -4,9 +4,9 @@
 
 * [Описание проекта](https://github.com/infinitelifeline/SF_DS_HW-01/blob/HW/README.md#описание-проекта)
 * [Какой кейс решаем](https://github.com/infinitelifeline/SF_DS_HW-01/blob/HW/README.md#какой-кейс-решаем)
-* [Условия соревнования](https://github.com/infinitelifeline/SF_DS_HW-01/blob/HW/README.md/Условия_соревнования)
-* [Метрика качества](https://github.com/infinitelifeline/SF_DS_HW-01/blob/HW/README.md/Метрика_качества)
-* [Что практикуем](https://github.com/infinitelifeline/SF_DS_HW-01/blob/HW/README.md/Что_практикуем)
+* Условия соревнования
+* Метрика качества
+* Что практикуем
 * [Ссылки](https://github.com/infinitelifeline/SF_DS_HW-01/blob/HW/README.md#ссылки-на-папку-и-файл)
 
 ### Описание проекта
@@ -28,6 +28,6 @@
 * Учимся работать с IDE.
 * Учимся работать с GitHub.
 ### Ссылки на папку и файл:
-* [HomeWork, Module 8.1(Folder)](https://github.com/infinitelifeline/SF_DS_HW-01/tree/HW/HW-01)
+* [HomeWork, Module 8.1(Папка)](https://github.com/infinitelifeline/SF_DS_HW-01/tree/HW/HW-01)
 
-* [Homework(File)](https://github.com/infinitelifeline/SF_DS_HW-01/blob/HW/HW-01/HW-01.ipynb)
+* [Homework(Файл)](https://github.com/infinitelifeline/SF_DS_HW-01/blob/HW/HW-01/HW-01.ipynb)
